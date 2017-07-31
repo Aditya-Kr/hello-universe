@@ -1,2 +1,3 @@
 # hello-universe
- first github repositiry
+ first github repository.
+ i'll master github in no time.
